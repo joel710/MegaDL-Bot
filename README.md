@@ -30,7 +30,7 @@ A Simple Telegram Bot By @AsmSafone to Download Files From Mega.nz and Upload It
 Deploy Your Own Bot ♥️ **Star 🌟 Fork 🍴 & Deploy**
 
 ### Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/joel710/TG-URL-Uploader)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/joel710/MegaDL-Bot)
 
 Note: `First Fork Then Click On Deploy Button!`
 
@@ -38,7 +38,7 @@ Note: `First Fork Then Click On Deploy Button!`
 
 - Clone the Repo
 ```
-git clone https://github.com/AsmSafone/MegaDL-Bot
+git clone https://github.com/joel710/MegaDL-Bot
 ```
 - Enter the directory
 ```
